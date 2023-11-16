@@ -1,0 +1,196 @@
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.AssemblyReference.cache
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.cache
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.lref
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.exe
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll.config
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.deps.json
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.runtimeconfig.json
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.g.resources
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfoInputs.cache
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfo.cs
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CoreCompileInputs.cache
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CopyComplete
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\refint\HundeKennel.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.genruntimeconfig.cache
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\ref\HundeKennel.dll
+C:\Users\PITA\source\repos\HundeKennel\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_Content.g.cs
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.exe
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll.config
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.deps.json
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.runtimeconfig.json
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_Content.g.cs
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.cache
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.lref
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.g.resources
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfo.cs
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CopyComplete
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\refint\HundeKennel.dll
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.genruntimeconfig.cache
+C:\Users\Justin\Desktop\HundeKennel C# mappe\HundeKennel\obj\Debug\net6.0-windows\ref\HundeKennel.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.exe
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll.config
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.deps.json
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.runtimeconfig.json
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.AssemblyReference.cache
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_Content.g.cs
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.cache
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.lref
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.g.resources
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfoInputs.cache
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfo.cs
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CoreCompileInputs.cache
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CopyComplete
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\refint\HundeKennel.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.genruntimeconfig.cache
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\ref\HundeKennel.dll
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\DogTreeView.g.cs
+C:\Users\almaj\Downloads\HundeKennel C# mappe (10-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\DogTreeView.baml
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\DogTreeView.g.cs
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_Content.g.cs
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.cache
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel_MarkupCompile.lref
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\refint\HundeKennel.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.exe
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll.config
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.deps.json
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.runtimeconfig.json
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\HundeKennel.pdb
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\View\DogTreeView.baml
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.g.resources
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.AssemblyInfo.cs
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.csproj.CopyComplete
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\HundeKennel.genruntimeconfig.cache
+C:\Users\Justin\Desktop\Hundekennel\HundeKennel C# mappe (13-11-2023)\HundeKennel\obj\Debug\net6.0-windows\ref\HundeKennel.dll

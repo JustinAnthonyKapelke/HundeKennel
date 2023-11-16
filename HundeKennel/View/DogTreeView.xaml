@@ -1,0 +1,38 @@
+﻿<Window x:Class="HundeKennel.DogTreeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HundeKennel"
+        mc:Ignorable="d"
+        Title="Hunde Stamtræ - Projekt Hundekennel"
+        Height="450"
+        Width="800"
+        Background="LightSkyBlue">
+    <Grid>
+        <TreeView x:Name="TreeViewDog"
+                  ItemsSource="{Binding DogsVM}">
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding ParentsVM}">
+                    <TextBlock Text="{Binding DogName}" />
+                    <HierarchicalDataTemplate.ItemTemplate>
+                        <HierarchicalDataTemplate ItemsSource="{Binding GrandparentsVM}">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding DogName}" />
+                                <TextBlock Text="{Binding DogBreedBook}" />
+                            </StackPanel>
+                            <HierarchicalDataTemplate.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding DogName}" />
+                                        <TextBlock Text="{Binding DogBreedBook}" />
+                                    </StackPanel>
+                                </DataTemplate>
+                            </HierarchicalDataTemplate.ItemTemplate>
+                        </HierarchicalDataTemplate>
+                    </HierarchicalDataTemplate.ItemTemplate>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+    </Grid>
+</Window>

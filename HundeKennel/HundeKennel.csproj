@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Hund.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\DogHealt.cs" />
+    <Compile Remove="Model\DogRepo.cs" />
+    <Compile Remove="Model\DogRepositor.cs" />
+    <Compile Remove="Model\Health.cs" />
+    <Compile Remove="Model\OwnerRepo.cs" />
+    <Compile Remove="Model\OwnerRepositor.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\Hund.ico" />
+    <None Remove="Icons\HundPNG.png" />
+    <None Remove="Model\DogRepositor.ycs" />
+    <None Remove="View\ALLAN.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Hund.ico" />
+    <Content Include="Icons\Hund.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\HundPNG.png" />
+  </ItemGroup>
+
+</Project>
